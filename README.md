@@ -1,4 +1,4 @@
-# InfoQ downloader
+# InfoQ newdownloader
 
 [InfoQ](http://www.infoq.com/) is a great resource for many useful sessions. The way they view presentations sync'ed with slides is cool. Unfortunately, I have a slow internet connection which makes my viewing experience sucks. To solve this, I made this scripts which downloads their page, video & slides.
 
